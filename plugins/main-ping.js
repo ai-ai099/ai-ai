@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 
 // Array of different fancy text styles for DARKZONE-MD
 const botNameStyles = [
-    "ᴇʀғᴀɴ-ᴍᴅ"
+    "𝙳𝙰𝚁𝙺𝚉𝙾𝙽𝙴-𝙼𝙳"
 ];
 
 // Track current style index
